@@ -1,0 +1,6 @@
+.openai/
+__pycache__/
+*.pyc
+tmp/
+test-results/
+.DS_Store
